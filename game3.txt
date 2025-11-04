@@ -1,7 +1,7 @@
-Borna ima 0 pobjeda i 0 poraza!
-Josip ima 0 pobjeda i 0 poraza!
+Borna ima 3 pobjeda i 0 poraza!
+Josip ima 0 pobjeda i 3 poraza!
 
 . . .
-x x .
+x x x
 O O .
 
